@@ -2,6 +2,14 @@
 
 This is just an exercise to help me learn Javascript.
 
+# Usage
+
+Open index.html in your browser, click to set the state of the cells.
+
+# Key bindings
+
+'p': To pause/un-pause
+
 p5.js is a community and p5.js is built by contributions. If you want to learn more about us, visit:  
 https://p5js.org/community/
 
